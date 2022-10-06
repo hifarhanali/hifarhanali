@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Farhan</h1>
 <h4 align="center">a computer science enthusiasts interested in mathematics and artificial intelligence</h4>
+<h4>
+<a href="https://github.com/hifarhanali"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=hifarhanali&style=flat-square" width="125"/></a></h4>
 </div>
 
 
@@ -8,9 +10,9 @@
 <br>
 
 - 📖 researching on use of reinforcement deep learning(RDL) for making Unmannad Aerial Vehicles(UAVs) i.e drones, autonomous.
-- 💼 working with @saqibAMA on a startup [Contract.PK](https://www.contract.pk/) - a tool to avoid scams in online dealings.
+- 💼 working with [Saqib Ali](https://github.com/SaqibAMA) on a startup [Contract.PK](https://www.contract.pk/) - a tool to avoid scams in online dealings.
 - 👮 learning penetration testing for making systems more robust and secure.
-- 💬 Ask me about AI, mathematics, python, web development
+- 💬 Ask me about AI, mathematics, python, data managment, web development, security.
 
 <br/>
 
