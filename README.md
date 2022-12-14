@@ -26,11 +26,6 @@
 </p>
 <br>
 
-<h2>📈 Latest Activity Graph</h2>
-<br/>
-<img alt="farhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=hifarhanali&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br>
-
 <h2> Reach me </h2>
 <p align="center">
   <br/>
