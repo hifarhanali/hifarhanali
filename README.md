@@ -1,5 +1,6 @@
+
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Farhan</h1>
+<h1 align="center">Hi there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h4 align="center">a computer science enthusiasts interested in mathematics and artificial intelligence</h4>
 <h4>
 <a href="https://github.com/hifarhanali"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=hifarhanali&style=flat-square" width="125"/></a></h4>
@@ -15,16 +16,6 @@
 - 💬 Ask me about AI, mathematics, python, data managment, web development, security.
 
 <br/>
-
-<h2> 📊 Github Statistics </h2>
-<br/>
-<p align="center">
-  <a href="https://github.com/hifarhanali/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hifarhanali&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hifarhanali&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
 
 <h2> Reach me </h2>
 <p align="center">
